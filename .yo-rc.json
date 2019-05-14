@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.justonetech.liuhaigang",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "5.7.1",
+    "applicationType": "monolith",
+    "baseName": "backendPro",
+    "packageName": "com.justonetech.liuhaigang",
+    "packageFolder": "com/justonetech/liuhaigang",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NzdkY2M0MjNhY2VkNmMwNjI1NWRmYTc3ZjEwYWJlYTFkZmNlNzlhNmM3NDgzYTdiOTQ5YmJlYzlmYmY0MTI1YWY0MGU1MTI5ZTVkZjQ5YmEwZWMwMGRlNjFkMzIwMTk3OWY3ZWEyNWFlZDU0ZGE1YjE1M2E2YmFlNTJlZjc3Mjc=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": [
+      "zh-cn",
+      "en"
+    ]
+  }
+}
